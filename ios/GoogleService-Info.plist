@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>403775817757-dl97c83ktog7o7degaikt3p2v2dnfuhk.apps.googleusercontent.com</string>
+	<string>403775817757-h68rv8fh919u43fj22cdkp54ek7r0h98.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.403775817757-dl97c83ktog7o7degaikt3p2v2dnfuhk</string>
+	<string>com.googleusercontent.apps.403775817757-h68rv8fh919u43fj22cdkp54ek7r0h98</string>
 	<key>API_KEY</key>
 	<string>AIzaSyAyb4qJ3H7dbz1StVhCvYygqtqmb0sOiMs</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.ludegljive.fma</string>
+	<string>com.ludegljive.fiveminutesahead</string>
 	<key>PROJECT_ID</key>
 	<string>monitoring-v10</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,7 +29,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:403775817757:ios:633bc8494135d457891ef4</string>
+	<string>1:403775817757:ios:f4fc0a7dd517a468891ef4</string>
 	<key>DATABASE_URL</key>
 	<string>https://monitoring-v10.firebaseio.com</string>
 </dict>
